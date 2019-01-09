@@ -1,5 +1,5 @@
 # SpaceInfesters
-Spade Invaders clone made in Unity Engine, exported to WebGL
+Spade Invaders clone made in Unity Engine, made into a standalone executable
 Download all files except gitIgnore, use .exe file to play the game
 
 Controls
